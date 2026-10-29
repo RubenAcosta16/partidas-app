@@ -39,9 +39,11 @@ Se deben ejecutar ambos proyectos simultáneamente. Abre **dos terminales** inde
 cd backend
 pnpm install
 pnpm run dev
+```
 
 #### Terminal 2: Frontend
 ```bash
 cd frontend
 pnpm install
 pnpm run dev
+```
